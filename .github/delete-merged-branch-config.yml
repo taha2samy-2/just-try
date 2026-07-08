@@ -1,0 +1,7 @@
+exclude:
+  - master
+  - main
+  - test
+  - testing
+
+delete_closed_pr: false
