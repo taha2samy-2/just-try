@@ -1,0 +1,5 @@
+[tools]
+"aqua:go-task/task" = "latest"
+[tasks]
+hallo=" echo 'im here' "
+just= {run="echo 'im here too'"}
